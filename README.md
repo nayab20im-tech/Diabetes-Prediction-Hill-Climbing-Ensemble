@@ -58,8 +58,7 @@ The following models are loaded and weighted during the optimization process:
 ### 1. Diversity Check
 To ensure the ensemble is effective, we analyze the Pearson correlation between the OOF predictions of different models. Lower correlation implies higher diversity.
 
-![Correlation Heatmap](https://via.placeholder.com/800x400?text=Insert+Your+Correlation+Heatmap+Here)
-*(Replace the link above with your actual heatmap image)*
+![Correlation Heatmap](correlation_heatmap.png)
 
 ### 2. Optimization History
 The Hill Climbing algorithm iterates through weights, printing the improvement in AUC score at every step.
