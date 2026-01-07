@@ -72,3 +72,16 @@ Ensure you have Python 3.10+ and the following libraries installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tqdm
+
+## Predictions (Large Files)
+Due to GitHub file size limitations, the prediction files are not stored directly
+in this repository.
+
+📦 Dec2025-Playground_S5E12-OOFs-TestPREDs.zip  
+🔗 Download link: https://www.kaggle.com/code/nayabnasir20/plaground-series-diabetes-prediction-challenge
+
+## Datasetss Links
+test :
+https://www.kaggle.com/datasets/harshitashibe24/diabetes-prediction-challenge-dataset
+train:
+https://www.kaggle.com/datasets/harshitashibe24/diabetes-prediction-challenge-dataset?select=train+%284%29.csv
